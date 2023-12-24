@@ -1,8 +1,10 @@
-# React + Vite
+## PriorityPilot
+#### websitelink:https://task-management-c0bb5.web.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### Project Features
+#### User 
+1. User can Login and register
+2. User can add their task
+3. User can drag and drop their tasks in between todo,ongoing,completed
+4. After completion of the task user can also delete their task
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
